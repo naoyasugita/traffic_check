@@ -1,7 +1,7 @@
 """
-A->D,B->E is run by 1/18s.
+A->D,B->E run by 1/18s.
 other is run by 1/12s
-sample:<vehicle id="32400" depart="0"><route edges="gne56 gneE7"/></vehicle>
+sample data:<vehicle id="32400" depart="0"><route edges="gne56 gneE7"/></vehicle>
 """
 
 f = open("traffic_data.xml","w")
