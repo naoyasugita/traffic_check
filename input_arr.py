@@ -4,6 +4,3 @@ def test(num):
     word = words.split()
     print(word)
     f.close()
-
-for i in range(1,1001):
-    test(i)
